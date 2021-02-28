@@ -1,6 +1,6 @@
 # Hi, I am Yesting! :wave:
 
-:running: I'm currently studying in [Tibame AI / Big Data Analyst Training Class](https://www.tibame.com/goodjob/bigdata?classUid=393), looking for new opportunities. 
+:running: I'm currently studying in [Tibame AI / Big Data Analyst Training Class](https://www.tibame.com/goodjob/bigdata?classUid=393)(complete in May, 2021), looking for new opportunities. 
 
 ## 👯 Experience
 * With 3+ years experiences in quantitative investment research, applying deep learning and machine learning methods to quantitative investment models.
