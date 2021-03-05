@@ -9,7 +9,7 @@
 
 ## ⛏ Recent Projects
 
-* 2021/03 - [繪製2019年台灣生育率互動式地圖](https://github.com/SuYenTing/taiwan_CBR_map)
+* 2021/03 - [繪製2019年台灣出生率互動式地圖](https://github.com/SuYenTing/taiwan_CBR_map)
 * 2021/02 - [職缺小幫手網站](https://github.com/SuYenTing/job_analysis_helper)
 * 2021/01 - [Line聊天機器人-CEB102課程小幫手](https://github.com/SuYenTing/linebot-ceb102-heroku)
 
