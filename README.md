@@ -16,6 +16,7 @@
 
 ## 📕 Latest Blog Posts
 
+* 2021/03/25 - [Shopee Code League 2021競賽心得](https://suyenting.github.io/post/shopee-competition-2021/)
 * 2021/03/08 - [以OpenCV實作人臉偵測、特徵捕捉與變裝](https://suyenting.github.io/post/opencv_face_stickers/)
 * 2021/02/28 - [專題作業-職缺小幫手](https://suyenting.github.io/post/dash-job-analysis-helper/)
 * 2021/02/09 - [Redis資料庫安裝筆記](https://suyenting.github.io/post/install-redis-db/)
