@@ -1,12 +1,5 @@
 # Hi, I am Yesting! :wave:
 
-:running: I'm currently studying in [Tibame AI / Big Data Analyst Training Class](https://www.tibame.com/goodjob/bigdata?classUid=393)(complete in May, 2021), looking for a job as a Data Scientist / Data Analyst.
-
-## 👯 Experience
-* With 3+ years experiences in quantitative investment research, applying deep learning and machine learning methods to quantitative investment models.
-* Participated in the algorithm design of Robo-Adivisor.
-* Backend development of investment website, mainly responsible for ETL and quantitative investment models development.
-
 ## ⛏ Recent Projects
 
 * 2021/06 - [玉山人工智慧挑戰賽2021夏季賽-中文手寫影像辨識](https://github.com/SuYenTing/esun_2021_ai_competition)
