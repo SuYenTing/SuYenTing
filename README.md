@@ -1,7 +1,8 @@
-# Hi, I am Yesting! :wave:
+## Hi, I am Yesting! :wave:
 
 ## ⛏ Recent Projects
 
+* 2022/01 - [玉山人工智慧挑戰賽2021冬季賽-信用卡消費類別推薦](https://github.com/SuYenTing/esun_2021_ai_competition)
 * 2021/06 - [玉山人工智慧挑戰賽2021夏季賽-中文手寫影像辨識](https://github.com/SuYenTing/esun_2021_ai_competition)
 * 2021/05 - [TibaMe期末專題 - Circle of Life: 少子女化保衛戰](https://github.com/SuYenTing/tibame_project)
 * 2021/03 - [以OpenCV實作人臉偵測、特徵捕捉與變裝](https://github.com/SuYenTing/opencv_face_stickers)
