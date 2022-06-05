@@ -2,6 +2,7 @@
 
 ## ⛏ Recent Projects
 
+* 2022/04 - [D4SG資料英雄計畫-黨產會專案文本分析系統](https://github.com/SuYenTing/d4sg_cipas_project)
 * 2022/01 - [玉山人工智慧挑戰賽2021冬季賽-信用卡消費類別推薦](https://github.com/SuYenTing/esun_2021_winter_ai_competition)
 * 2021/06 - [玉山人工智慧挑戰賽2021夏季賽-中文手寫影像辨識](https://github.com/SuYenTing/esun_2021_ai_competition)
 * 2021/05 - [TibaMe期末專題 - Circle of Life: 少子女化保衛戰](https://github.com/SuYenTing/tibame_project)
