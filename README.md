@@ -12,7 +12,7 @@
 * 2021/01 - [Line聊天機器人-CEB102課程小幫手](https://github.com/SuYenTing/linebot-ceb102-heroku)
 
 ## 📕 Recent Blog Posts
-
+* 2022/07/10 - [GitLab備份及復原流程筆記](https://suyenting.github.io/post/gitlab-backup-and-restore/)
 * 2021/04/20 - [YOLOv4手把手實作應用](https://suyenting.github.io/post/yolov4-hands-on/)
 * 2021/04/19 - [YOLOv4手把手安裝流程](https://suyenting.github.io/post/yolov4-install/)
 * 2021/03/25 - [Shopee Code League 2021競賽心得](https://suyenting.github.io/post/shopee-competition-2021/)
