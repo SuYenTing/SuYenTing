@@ -23,5 +23,3 @@
 ## 📫 Get in touch
 - LinkedIn - [Yen-Ting Su](https://in.linkedin.com/in/yen-ting-su)
 - Mail - [sn86056@gmail.com](mailto:sn86056@gmail.com)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SuYenTing/SuYenTing)
