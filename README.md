@@ -1,6 +1,7 @@
 ## Hi, I am Yesting! :wave:
 
 ## ⛏ Recent Projects
+* 2024/12 - [2024台南黑客松-災害影響評估平台](https://github.com/tainancity/tainanthon2024-water-resource-map-application)
 * 2023/07 - [PyModbus套件範例程式碼](https://github.com/SuYenTing/PyModbus_example)
 * 2022/06 - [以YouTube直播畫面做YOLO物件偵測模型](https://github.com/SuYenTing/live_streaming_object_detect)
 * 2022/04 - [D4SG資料英雄計畫-黨產會專案文本分析系統](https://github.com/SuYenTing/d4sg_cipas_project)
